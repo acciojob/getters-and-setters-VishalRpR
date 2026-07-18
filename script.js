@@ -10,7 +10,7 @@ class Person {
 	}
 
 	setage(age){
-		this.age=age;
+	  return this.age=age;
 }
 }
 
